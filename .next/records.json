@@ -1,0 +1,50 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/bootstrap/dist/css/bootstrap.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi node_modules/next/dist/client/next": 0,
+      "css node_modules/css-loader/index.js??ref--5-1!node_modules/bootstrap/dist/css/bootstrap.min.css 0": 1
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/Su8BJkWk1JmP8GONd9r1s/pages/_app.js": 2,
+      "static/Su8BJkWk1JmP8GONd9r1s/pages/_error.js": 3,
+      "static/Su8BJkWk1JmP8GONd9r1s/pages/index.js": 4,
+      "static/runtime/main.js": 5,
+      "styles": 6
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}
